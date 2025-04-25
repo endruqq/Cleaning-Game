@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Indicator
+  - MoneyText
+  - CleaningProgressBar
+  - InventorySlotTool
+  - IndicatorForRepair
+  - RepairProgressBar
+  - Burnable
+  - Sand
+  - Glass
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Dirt
+  - Water
+  - UI
+  - AddableItemsToInventory
+  - Grab
+  - Repair
+  - wallMask
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1802073103
+    locked: 0
+  - name: Foreground
+    uniqueID: 323884663
+    locked: 0

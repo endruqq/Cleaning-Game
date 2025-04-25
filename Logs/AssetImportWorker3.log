@@ -1,0 +1,713 @@
+Using pre-set license
+Built from '2023.2/staging' branch; Version is '2023.2.0f1 (d0d63d039a6f) revision 13686333'; Using compiler version '193431935'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Core' Language: 'pl' Physical Memory: 16085 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2023.2.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+C:/UnityGames/PixelPrjectCleaning
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+56881
+-job-worker-count
+5
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: C:/UnityGames/PixelPrjectCleaning
+C:/UnityGames/PixelPrjectCleaning
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [16744] Host "[IP] 192.168.1.81 [Port] 0 [Flags] 2 [Guid] 1160504711 [EditorId] 1160504711 [Version] 1048832 [Id] WindowsEditor(7,laptop-Kenpachi) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [16744] Host "[IP] 192.168.1.81 [Port] 0 [Flags] 2 [Guid] 1160504711 [EditorId] 1160504711 [Version] 1048832 [Id] WindowsEditor(7,laptop-Kenpachi) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+[Physics::Module] Initialized MultithreadedJobDispatcher with 5 workers.
+Library Redirect Path: Library/
+Refreshing native plugins compatible for Editor in 7.07 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2023.2.0f1 (d0d63d039a6f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2023.2.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/UnityGames/PixelPrjectCleaning/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4050 Laptop GPU (ID=0x28a1)
+    Vendor:   NVIDIA
+    VRAM:     5921 MB
+    Driver:   32.0.15.6614
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2023.2.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2023.2.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2023.2.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56916
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2023.2.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006937 seconds.
+- Loaded All Assemblies, in  0.622 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Finished resetting the current domain, in  0.299 seconds
+Domain Reload Profiling: 919ms
+	BeginReloadAssembly (295ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (54ms)
+	RebuildNativeTypeToScriptingClass (24ms)
+	initialDomainReloadingComplete (81ms)
+	LoadAllAssembliesAndSetupDomain (165ms)
+		LoadAssemblies (293ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (162ms)
+			TypeCache.Refresh (160ms)
+				TypeCache.ScanAssembly (142ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (300ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (245ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (11ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (7ms)
+			ProcessInitializeOnLoadAttributes (171ms)
+			ProcessInitializeOnLoadMethodAttributes (50ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image C:\UnityGames\PixelPrjectCleaning\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\UnityGames\PixelPrjectCleaning\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  1.401 seconds
+Refreshing native plugins compatible for Editor in 3.24 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.897 seconds
+Domain Reload Profiling: 2293ms
+	BeginReloadAssembly (419ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (27ms)
+	RebuildCommonClasses (35ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (57ms)
+	LoadAllAssembliesAndSetupDomain (873ms)
+		LoadAssemblies (710ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (311ms)
+			TypeCache.Refresh (240ms)
+				TypeCache.ScanAssembly (216ms)
+			BuildScriptInfoCaches (50ms)
+			ResolveRequiredComponents (18ms)
+	FinalizeReload (897ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (557ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (66ms)
+			ProcessInitializeOnLoadAttributes (414ms)
+			ProcessInitializeOnLoadMethodAttributes (63ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 1.23 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 187 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5883 unused Assets / (5.9 MB). Loaded Objects now: 6573.
+Memory consumption went from 186.8 MB to 180.9 MB.
+Total: 8.324300 ms (FindLiveObjects: 1.058700 ms CreateObjectMapping: 0.521300 ms MarkObjects: 4.077700 ms  DeleteObjects: 2.664900 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.96 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5872 unused Assets / (5.6 MB). Loaded Objects now: 6572.
+Memory consumption went from 155.3 MB to 149.8 MB.
+Total: 12.718500 ms (FindLiveObjects: 0.636200 ms CreateObjectMapping: 0.910400 ms MarkObjects: 7.436700 ms  DeleteObjects: 3.732000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image C:\UnityGames\PixelPrjectCleaning\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\UnityGames\PixelPrjectCleaning\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.981 seconds
+Refreshing native plugins compatible for Editor in 1.03 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.820 seconds
+Domain Reload Profiling: 1798ms
+	BeginReloadAssembly (275ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (16ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (69ms)
+	RebuildCommonClasses (51ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (33ms)
+	LoadAllAssembliesAndSetupDomain (602ms)
+		LoadAssemblies (533ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (210ms)
+			TypeCache.Refresh (11ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (183ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (821ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (563ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (77ms)
+			ProcessInitializeOnLoadAttributes (416ms)
+			ProcessInitializeOnLoadMethodAttributes (55ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Refreshing native plugins compatible for Editor in 4.21 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 22 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5880 unused Assets / (6.3 MB). Loaded Objects now: 6574.
+Memory consumption went from 159.7 MB to 153.3 MB.
+Total: 12.514800 ms (FindLiveObjects: 0.676200 ms CreateObjectMapping: 0.747500 ms MarkObjects: 5.937900 ms  DeleteObjects: 5.150800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 420469.157674 seconds.
+  path: Assets/testrozmiaru1.png
+  artifactKey: Guid(e8d7637cdb24027479af298eedcbee6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/testrozmiaru1.png using Guid(e8d7637cdb24027479af298eedcbee6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '825fdd1cd03d0af62daccf8d950ed229') in 0.1683352 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.53 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5872 unused Assets / (5.3 MB). Loaded Objects now: 6583.
+Memory consumption went from 160.6 MB to 155.2 MB.
+Total: 13.600200 ms (FindLiveObjects: 0.649300 ms CreateObjectMapping: 0.832000 ms MarkObjects: 6.736800 ms  DeleteObjects: 5.379500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image C:\UnityGames\PixelPrjectCleaning\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\UnityGames\PixelPrjectCleaning\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.900 seconds
+Refreshing native plugins compatible for Editor in 2.58 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.864 seconds
+Domain Reload Profiling: 1764ms
+	BeginReloadAssembly (263ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (20ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (63ms)
+	RebuildCommonClasses (44ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (35ms)
+	LoadAllAssembliesAndSetupDomain (539ms)
+		LoadAssemblies (444ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (226ms)
+			TypeCache.Refresh (13ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (193ms)
+			ResolveRequiredComponents (16ms)
+	FinalizeReload (865ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (590ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (80ms)
+			ProcessInitializeOnLoadAttributes (422ms)
+			ProcessInitializeOnLoadMethodAttributes (74ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (14ms)
+Refreshing native plugins compatible for Editor in 3.08 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5880 unused Assets / (6.6 MB). Loaded Objects now: 6582.
+Memory consumption went from 162.0 MB to 155.5 MB.
+Total: 13.958700 ms (FindLiveObjects: 1.029000 ms CreateObjectMapping: 1.192600 ms MarkObjects: 6.154700 ms  DeleteObjects: 5.579900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.54 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5872 unused Assets / (5.2 MB). Loaded Objects now: 6582.
+Memory consumption went from 162.2 MB to 157.0 MB.
+Total: 11.100200 ms (FindLiveObjects: 0.764800 ms CreateObjectMapping: 1.074400 ms MarkObjects: 5.828200 ms  DeleteObjects: 3.430500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image C:\UnityGames\PixelPrjectCleaning\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\UnityGames\PixelPrjectCleaning\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  1.072 seconds
+Refreshing native plugins compatible for Editor in 1.05 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.151 seconds
+Domain Reload Profiling: 2221ms
+	BeginReloadAssembly (337ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (26ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (66ms)
+	RebuildCommonClasses (66ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (42ms)
+	LoadAllAssembliesAndSetupDomain (607ms)
+		LoadAssemblies (561ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (209ms)
+			TypeCache.Refresh (13ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (178ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (1152ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (834ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (98ms)
+			ProcessInitializeOnLoadAttributes (640ms)
+			ProcessInitializeOnLoadMethodAttributes (79ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+Refreshing native plugins compatible for Editor in 1.72 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5880 unused Assets / (5.4 MB). Loaded Objects now: 6582.
+Memory consumption went from 164.0 MB to 158.6 MB.
+Total: 10.822100 ms (FindLiveObjects: 0.830300 ms CreateObjectMapping: 0.778700 ms MarkObjects: 5.253400 ms  DeleteObjects: 3.957700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.65 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5872 unused Assets / (5.5 MB). Loaded Objects now: 6582.
+Memory consumption went from 164.2 MB to 158.6 MB.
+Total: 13.819000 ms (FindLiveObjects: 0.821400 ms CreateObjectMapping: 0.932400 ms MarkObjects: 6.691900 ms  DeleteObjects: 5.370800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image C:\UnityGames\PixelPrjectCleaning\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\UnityGames\PixelPrjectCleaning\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.933 seconds
+Refreshing native plugins compatible for Editor in 1.10 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.906 seconds
+Domain Reload Profiling: 1836ms
+	BeginReloadAssembly (262ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (15ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (62ms)
+	RebuildCommonClasses (42ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (38ms)
+	LoadAllAssembliesAndSetupDomain (572ms)
+		LoadAssemblies (483ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (227ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (193ms)
+			ResolveRequiredComponents (18ms)
+	FinalizeReload (906ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (649ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (88ms)
+			ProcessInitializeOnLoadAttributes (475ms)
+			ProcessInitializeOnLoadMethodAttributes (70ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (15ms)
+Refreshing native plugins compatible for Editor in 1.35 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5880 unused Assets / (5.6 MB). Loaded Objects now: 6582.
+Memory consumption went from 165.9 MB to 160.3 MB.
+Total: 10.246400 ms (FindLiveObjects: 1.427100 ms CreateObjectMapping: 1.183900 ms MarkObjects: 4.621100 ms  DeleteObjects: 3.012300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.34 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5872 unused Assets / (5.8 MB). Loaded Objects now: 6582.
+Memory consumption went from 166.1 MB to 160.2 MB.
+Total: 13.156000 ms (FindLiveObjects: 0.659900 ms CreateObjectMapping: 0.997000 ms MarkObjects: 6.984000 ms  DeleteObjects: 4.513100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image C:\UnityGames\PixelPrjectCleaning\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\UnityGames\PixelPrjectCleaning\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.942 seconds
+Refreshing native plugins compatible for Editor in 1.19 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.806 seconds
+Domain Reload Profiling: 1747ms
+	BeginReloadAssembly (258ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (15ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (54ms)
+	RebuildCommonClasses (48ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (36ms)
+	LoadAllAssembliesAndSetupDomain (579ms)
+		LoadAssemblies (522ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (199ms)
+			TypeCache.Refresh (11ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (173ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (806ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (566ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (76ms)
+			ProcessInitializeOnLoadAttributes (424ms)
+			ProcessInitializeOnLoadMethodAttributes (52ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Refreshing native plugins compatible for Editor in 1.55 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5880 unused Assets / (5.5 MB). Loaded Objects now: 6582.
+Memory consumption went from 167.8 MB to 162.2 MB.
+Total: 9.247400 ms (FindLiveObjects: 0.568900 ms CreateObjectMapping: 0.817300 ms MarkObjects: 4.957300 ms  DeleteObjects: 2.902300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.60 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5872 unused Assets / (5.3 MB). Loaded Objects now: 6582.
+Memory consumption went from 168.0 MB to 162.6 MB.
+Total: 9.261300 ms (FindLiveObjects: 0.660300 ms CreateObjectMapping: 0.990800 ms MarkObjects: 4.858400 ms  DeleteObjects: 2.749900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image C:\UnityGames\PixelPrjectCleaning\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\UnityGames\PixelPrjectCleaning\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.910 seconds
+Refreshing native plugins compatible for Editor in 1.43 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.814 seconds
+Domain Reload Profiling: 1722ms
+	BeginReloadAssembly (242ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (17ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (51ms)
+	RebuildCommonClasses (43ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (40ms)
+	LoadAllAssembliesAndSetupDomain (564ms)
+		LoadAssemblies (475ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (213ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (180ms)
+			ResolveRequiredComponents (18ms)
+	FinalizeReload (815ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (572ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (69ms)
+			ProcessInitializeOnLoadAttributes (433ms)
+			ProcessInitializeOnLoadMethodAttributes (53ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Refreshing native plugins compatible for Editor in 1.62 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5880 unused Assets / (5.7 MB). Loaded Objects now: 6582.
+Memory consumption went from 169.8 MB to 164.1 MB.
+Total: 12.196600 ms (FindLiveObjects: 0.806200 ms CreateObjectMapping: 0.992000 ms MarkObjects: 6.457300 ms  DeleteObjects: 3.938900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.81 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5872 unused Assets / (5.7 MB). Loaded Objects now: 6582.
+Memory consumption went from 169.9 MB to 164.2 MB.
+Total: 12.322500 ms (FindLiveObjects: 1.554100 ms CreateObjectMapping: 0.947600 ms MarkObjects: 5.645500 ms  DeleteObjects: 4.171200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image C:\UnityGames\PixelPrjectCleaning\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\UnityGames\PixelPrjectCleaning\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.926 seconds
+Refreshing native plugins compatible for Editor in 1.33 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.797 seconds
+Domain Reload Profiling: 1720ms
+	BeginReloadAssembly (269ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (16ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (56ms)
+	RebuildCommonClasses (47ms)
+	RebuildNativeTypeToScriptingClass (20ms)
+	initialDomainReloadingComplete (48ms)
+	LoadAllAssembliesAndSetupDomain (537ms)
+		LoadAssemblies (457ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (224ms)
+			TypeCache.Refresh (14ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (192ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (798ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (557ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (73ms)
+			ProcessInitializeOnLoadAttributes (416ms)
+			ProcessInitializeOnLoadMethodAttributes (54ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Refreshing native plugins compatible for Editor in 2.24 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5880 unused Assets / (5.7 MB). Loaded Objects now: 6582.
+Memory consumption went from 171.7 MB to 166.0 MB.
+Total: 13.137900 ms (FindLiveObjects: 0.877400 ms CreateObjectMapping: 1.098600 ms MarkObjects: 6.826300 ms  DeleteObjects: 4.332900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

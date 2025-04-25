@@ -1,0 +1,269 @@
+Using pre-set license
+Built from '2023.2/staging' branch; Version is '2023.2.0f1 (d0d63d039a6f) revision 13686333'; Using compiler version '193431935'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Core' Language: 'pl' Physical Memory: 16085 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2023.2.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/UnityGames/PixelPrjectCleaning
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+56881
+-job-worker-count
+5
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: C:/UnityGames/PixelPrjectCleaning
+C:/UnityGames/PixelPrjectCleaning
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [20092] Host "[IP] 192.168.1.81 [Port] 0 [Flags] 2 [Guid] 1084386073 [EditorId] 1084386073 [Version] 1048832 [Id] WindowsEditor(7,laptop-Kenpachi) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [20092] Host "[IP] 192.168.1.81 [Port] 0 [Flags] 2 [Guid] 1084386073 [EditorId] 1084386073 [Version] 1048832 [Id] WindowsEditor(7,laptop-Kenpachi) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+[Physics::Module] Initialized MultithreadedJobDispatcher with 5 workers.
+Library Redirect Path: Library/
+Refreshing native plugins compatible for Editor in 228.29 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2023.2.0f1 (d0d63d039a6f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2023.2.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/UnityGames/PixelPrjectCleaning/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4050 Laptop GPU (ID=0x28a1)
+    Vendor:   NVIDIA
+    VRAM:     5921 MB
+    Driver:   32.0.15.6614
+Shader 'Hidden/Universal Render Pipeline/FallbackError': fallback shader 'Hidden/Core/FallbackError' not found
+Shader 'Universal Render Pipeline/Nature/SpeedTree7': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/Nature/SpeedTree7': dependency 'BillboardShader' shader 'Universal Render Pipeline/Nature/SpeedTree7 Billboard' not found
+Shader 'Universal Render Pipeline/Lit': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/Particles/Unlit': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/VR/SpatialMapping/Occlusion': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/VR/SpatialMapping/Wireframe': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/Simple Lit': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'TextMeshPro/Distance Field': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+Shader 'Hidden/Universal Render Pipeline/StencilDeferred': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/Particles/Simple Lit': fallback shader 'Universal Render Pipeline/Particles/Unlit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/Simple Lit' not found
+Shader 'Universal Render Pipeline/Nature/SpeedTree8': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Add Pass)': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'TextMeshPro/Distance Field Overlay': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+Shader 'Universal Render Pipeline/Baked Lit': fallback shader 'Universal Render Pipeline/Unlit' not found
+Shader 'TextMeshPro/Distance Field SSD': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+Shader 'Universal Render Pipeline/Nature/SpeedTree7 Billboard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/Complex Lit': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/Unlit': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2023.2.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2023.2.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2023.2.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56704
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2023.2.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.214435 seconds.
+- Loaded All Assemblies, in 15.698 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Finished resetting the current domain, in  0.521 seconds
+Domain Reload Profiling: 16209ms
+	BeginReloadAssembly (13236ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (720ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (279ms)
+	LoadAllAssembliesAndSetupDomain (1437ms)
+		LoadAssemblies (13230ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1434ms)
+			TypeCache.Refresh (1432ms)
+				TypeCache.ScanAssembly (940ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (521ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (451ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (8ms)
+			BeforeProcessingInitializeOnLoad (11ms)
+			ProcessInitializeOnLoadAttributes (334ms)
+			ProcessInitializeOnLoadMethodAttributes (85ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image C:\UnityGames\PixelPrjectCleaning\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\UnityGames\PixelPrjectCleaning\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in 15.394 seconds
+Refreshing native plugins compatible for Editor in 1.29 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.275 seconds
+Domain Reload Profiling: 16662ms
+	BeginReloadAssembly (496ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (42ms)
+	RebuildCommonClasses (52ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (53ms)
+	LoadAllAssembliesAndSetupDomain (14770ms)
+		LoadAssemblies (13783ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1130ms)
+			TypeCache.Refresh (1066ms)
+				TypeCache.ScanAssembly (965ms)
+			BuildScriptInfoCaches (45ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (1276ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (903ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (110ms)
+			ProcessInitializeOnLoadAttributes (703ms)
+			ProcessInitializeOnLoadMethodAttributes (74ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 1.92 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 187 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5884 unused Assets / (5.7 MB). Loaded Objects now: 6573.
+Memory consumption went from 186.8 MB to 181.2 MB.
+Total: 13.561300 ms (FindLiveObjects: 1.499100 ms CreateObjectMapping: 1.126700 ms MarkObjects: 6.036900 ms  DeleteObjects: 4.895600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 420027.624763 seconds.
+  path: Assets/Coin.png
+  artifactKey: Guid(cd0eb76b0bd17574f879b443243f9bec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Coin.png using Guid(cd0eb76b0bd17574f879b443243f9bec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '485a2196e57eacfb76ae44d47d001273') in 0.1315311 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/desk.png
+  artifactKey: Guid(4b9543228b795ec45a3576485c1b8a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/desk.png using Guid(4b9543228b795ec45a3576485c1b8a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '614d34fdd45601724199016a438b9bb3') in 0.0328663 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/Scenes/Money.prefab
+  artifactKey: Guid(d6d3f5754c8534c43a2c38c8ae5c053a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Money.prefab using Guid(d6d3f5754c8534c43a2c38c8ae5c053a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '915b75927d558879c0c0efff82d88498') in 0.039044 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Prepare
+Shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 5.50 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 21 unused Assets / (2.6 MB). Loaded Objects now: 6584.
+Memory consumption went from 152.1 MB to 149.5 MB.
+Total: 7.898400 ms (FindLiveObjects: 0.343100 ms CreateObjectMapping: 0.227800 ms MarkObjects: 6.674700 ms  DeleteObjects: 0.651000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
